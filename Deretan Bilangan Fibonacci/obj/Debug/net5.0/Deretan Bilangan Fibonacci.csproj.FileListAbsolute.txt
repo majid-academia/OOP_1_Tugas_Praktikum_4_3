@@ -1,0 +1,16 @@
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.exe
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.deps.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.runtimeconfig.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.runtimeconfig.dev.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\ref\Deretan Bilangan Fibonacci.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\bin\Debug\net5.0\Deretan Bilangan Fibonacci.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.csprojAssemblyReference.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.AssemblyInfoInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.AssemblyInfo.cs
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\ref\Deretan Bilangan Fibonacci.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Fibonacci\obj\Debug\net5.0\Deretan Bilangan Fibonacci.genruntimeconfig.cache

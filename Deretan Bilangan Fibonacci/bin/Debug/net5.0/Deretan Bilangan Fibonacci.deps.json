@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Deretan Bilangan Fibonacci/1.0.0": {
+        "runtime": {
+          "Deretan Bilangan Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deretan Bilangan Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

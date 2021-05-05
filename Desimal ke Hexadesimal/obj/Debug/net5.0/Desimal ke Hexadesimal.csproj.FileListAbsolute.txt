@@ -1,0 +1,16 @@
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.exe
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.deps.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.runtimeconfig.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.runtimeconfig.dev.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\ref\Desimal ke Hexadesimal.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\bin\Debug\net5.0\Desimal ke Hexadesimal.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.csprojAssemblyReference.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.AssemblyInfoInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.AssemblyInfo.cs
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\ref\Desimal ke Hexadesimal.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Hexadesimal\obj\Debug\net5.0\Desimal ke Hexadesimal.genruntimeconfig.cache

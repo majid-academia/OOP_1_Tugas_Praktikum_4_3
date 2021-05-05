@@ -1,0 +1,16 @@
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.exe
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.deps.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.runtimeconfig.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.runtimeconfig.dev.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\ref\Deretan Bilangan Prima.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\bin\Debug\net5.0\Deretan Bilangan Prima.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.csprojAssemblyReference.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.AssemblyInfoInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.AssemblyInfo.cs
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\ref\Deretan Bilangan Prima.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Deretan Bilangan Prima\obj\Debug\net5.0\Deretan Bilangan Prima.genruntimeconfig.cache

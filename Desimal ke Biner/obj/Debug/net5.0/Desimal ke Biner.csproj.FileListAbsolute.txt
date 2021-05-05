@@ -1,0 +1,16 @@
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.exe
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.deps.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.runtimeconfig.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.runtimeconfig.dev.json
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\ref\Desimal ke Biner.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\bin\Debug\net5.0\Desimal ke Biner.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.csprojAssemblyReference.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.AssemblyInfoInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.AssemblyInfo.cs
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.csproj.CoreCompileInputs.cache
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\ref\Desimal ke Biner.dll
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.pdb
+C:\Users\D\Documents\Academia\2 - OOP I\Tugas Praktikum 4-3 PBO I\Desimal ke Biner\obj\Debug\net5.0\Desimal ke Biner.genruntimeconfig.cache
